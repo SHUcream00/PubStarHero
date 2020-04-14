@@ -1,0 +1,51 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\문서 및 공부\17FS\CPSC 386\2D Platformer\Builds\My First Platformer v1.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\문서 및 공부\17FS\CPSC 386\2D Platformer\Builds\My First Platformer v1.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\문서 및 공부\17FS\CPSC 386\2D Platformer\Builds\My First Platformer v1.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\문서 및 공부\17FS\CPSC 386\2D Platformer\Builds\My First Platformer v1.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\문서 및 공부\17FS\CPSC 386\2D Platformer\Builds\My First Platformer v1.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\문서 및 공부\17FS\CPSC 386\2D Platformer\Builds\My First Platformer v1.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\문서 및 공부\17FS\CPSC 386\2D Platformer\Builds\My First Platformer v1.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\문서 및 공부\17FS\CPSC 386\2D Platformer\Builds\My First Platformer v1.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.169 seconds
+Platform assembly: F:\문서 및 공부\17FS\CPSC 386\2D Platformer\Builds\My First Platformer v1.1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\문서 및 공부\17FS\CPSC 386\2D Platformer\Builds\My First Platformer v1.1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 5760x2160 at -1610,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.336733 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.465958 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1578.
+Total: 0.319871 ms (FindLiveObjects: 0.056207 ms CreateObjectMapping: 0.024015 ms MarkObjects: 0.236326 ms  DeleteObjects: 0.003065 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.679088 ms
+
+Unloading 63 unused Assets to reduce memory usage. Loaded Objects now: 207.
+Total: 0.304286 ms (FindLiveObjects: 0.016606 ms CreateObjectMapping: 0.009197 ms MarkObjects: 0.131065 ms  DeleteObjects: 0.147161 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.281037 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 627.
+Total: 0.194171 ms (FindLiveObjects: 0.016606 ms CreateObjectMapping: 0.008942 ms MarkObjects: 0.166578 ms  DeleteObjects: 0.002043 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.462434 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 207.
+Total: 0.206690 ms (FindLiveObjects: 0.016095 ms CreateObjectMapping: 0.006642 ms MarkObjects: 0.131576 ms  DeleteObjects: 0.051608 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 7760 -> priority: 1 
+  Thread -> id: 5ea8 -> priority: 1 
